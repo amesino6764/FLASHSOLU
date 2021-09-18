@@ -1,0 +1,7 @@
+{
+  "name": "FLASHSOLU",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
